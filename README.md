@@ -1,1 +1,2 @@
-# testing-practice
+# Testing Practice
+Testing Practice with Jest
