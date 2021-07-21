@@ -1,0 +1,24 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabesenacom/testing-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabesenacom/testing-practice/issues"
+  },
+  "homepage": "https://github.com/gabesenacom/testing-practice#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
