@@ -1,4 +1,4 @@
-import reverseString from './../reverseString'
+import reverseString from './../reverse-string'
 
 test('Return null/undefined when insert null content', () => {
   expect(reverseString(null)).toBeFalsy()
